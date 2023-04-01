@@ -12,6 +12,10 @@ The AI has an attitude.
 4. Guess the number.
 5. 💸 **Profit** 💸
 
+### Game logic location
+
+`src/main.rs`
+
 ### Learning points
 
 - Installing external packages with `cargo`
